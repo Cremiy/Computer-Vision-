@@ -1,4 +1,4 @@
-# Computer-Vision-
+# Computer-Graph(计算机图形学）
 simple basic knowledge about Computer vision
 
 ### 1、什么是色彩
